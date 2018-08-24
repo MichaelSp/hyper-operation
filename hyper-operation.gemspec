@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'hyperloop-config', Hyperloop::Operation::VERSION
   spec.add_dependency 'mutations'
   spec.add_dependency 'opal-activesupport', '~> 0.3.1'
-  spec.add_dependency 'mini_racer', '~> 0.1.15'
+  spec.add_dependency 'mini_racer', '~> 0.2.0'
   # https://github.com/discourse/mini_racer/issues/92
   spec.add_dependency 'libv8', '~> 6.3.0'
 
